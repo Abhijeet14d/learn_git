@@ -1,3 +1,4 @@
 this is file 2 
 made some changes in file2
 trying to learn git
+again doing this stuff
